@@ -21,3 +21,5 @@ Arif Can Terzioğlu
 
 
 Instructor: Eray Tüzün
+
+Note: Code of the program canbe published only with the permission of other group members on request.
